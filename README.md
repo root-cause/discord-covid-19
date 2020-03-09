@@ -1,6 +1,6 @@
 # discord-covid-19
 
-A small Discord bot for displaying stats about [2019-20 coronavirus outbreak](https://en.wikipedia.org/wiki/2019%E2%80%9320_coronavirus_outbreak).
+A small Discord bot for displaying stats about the [2019-20 coronavirus outbreak](https://en.wikipedia.org/wiki/2019%E2%80%9320_coronavirus_outbreak).
 
 ![Example](image.png)
 
